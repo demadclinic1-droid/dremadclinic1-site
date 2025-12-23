@@ -1,0 +1,21 @@
+{
+  "name": "Dr. Emad Hamdy Medical Clinic",
+  "short_name": "Dr. Emad Hamdy",
+  "description": "Internal Medicine & Tropical Specialist in Hurghada, Egypt",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a1b3d",
+  "theme_color": "#0a1b3d",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
